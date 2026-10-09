@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Atharv Anil Jadhav 👋
+### Embedded Systems & IoT Engineer | Electronics & Telecommunication Graduate
 
-<!--
-**AtharvJadhav214/AtharvJadhav214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in low-level embedded firmware design, microcontroller peripheral integration (UART, SPI, I2C), and IoT cloud telemetry. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Stack & Skills
+- **Languages:** Embedded C, C++, Python
+- **Microcontrollers & Hardware:** ESP32, Arduino Uno, ARM Cortex-M architecture basics, Sensors, RFID
+- **Protocols & Communication:** UART, SPI, I2C, Wi-Fi, GSM
+- **Hardware Tools & Quality:** PCB Soldering, DSO/Logic Analyzers, Hardware Diagnostics, Wire Harness & QC
+
+---
+
+### 📂 Featured Hardware & Embedded Projects
+- 🚜 **[Multi-Purpose Water Spraying Robot](./)**: Telemetry-driven agricultural robot with live media streaming and fail-safe fire suppression.
+- 📡 **[RFID-Based Smart Attendance System](./)**: Automated contactless attendance logger with ESP32, GSM alerts, and cloud logging.
+
+---
+
+### 📬 Connect With Me
+- 💼 **LinkedIn:** [linkedin.com/in/atharvajadhav214](https://www.linkedin.com/in/atharvajadhav214)
+- 📧 **Email:** atharvajadhav219@gmail.com
